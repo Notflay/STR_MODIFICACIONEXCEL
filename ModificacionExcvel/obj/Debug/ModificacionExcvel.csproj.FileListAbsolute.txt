@@ -4,3 +4,8 @@ C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.CoreCompileInputs.cache
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.exe
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.pdb
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\ModificacionExcvel.exe.config
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.CopyComplete

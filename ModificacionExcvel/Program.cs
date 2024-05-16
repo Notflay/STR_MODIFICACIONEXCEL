@@ -35,11 +35,14 @@ namespace ModificacionExcvel
 
             List<SAPCOLUMN> listaColumns = new List<SAPCOLUMN>();
 
+            HanaADOHelper hsh = new HanaADOHelper();
             foreach (XmlNode tableNode in tableNodes)
             {
                 SAPCOLUMN col = new SAPCOLUMN();
                 // Obtener los valores de TableName, TableDescription y TableType
                 col.Name = tableNode.SelectSingleNode("Name").InnerText;
+                // Obtiene Data de Columnas
+                col.FieldID = hsh.insertValueSql("SELECT \"FieldID\" FROM CUFD WHERE \"AliasID\" = '{0}' and \"TableID\" = '{1}'", tableNode.SelectSingleNode("Name").InnerText, tableNode.SelectSingleNode("TableName").InnerText);
                 col.Type = tableNode.SelectSingleNode("Type").InnerText;
                 col.Size = tableNode.SelectSingleNode("Size").InnerText;
                 col.Description = tableNode.SelectSingleNode("Description").InnerText;
