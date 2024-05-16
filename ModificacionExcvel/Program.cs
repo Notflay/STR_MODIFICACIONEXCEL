@@ -24,7 +24,7 @@ namespace ModificacionExcvel
         {
             XmlDocument xmlDoc = new XmlDocument();
             // C:\Users\Sebastian\source\repos\STR_ADDONPERU_INSTALADOR\STR_ADDONPERU_INSTALADOR\Resources\Localizacion\UT.vte
-            string path = "D:\\Chamba Backend\\AddonPeru\\PlantillasImplementacion\\XML\\Localizacion\\UF.xml";
+            string path = "D:\\SEBAS\\PlantillasAddonPE\\XMLS\\Localizacion\\UF.xml";
             // Cargar el archivo XML con la codificación UTF-16
             using (XmlReader reader = XmlReader.Create(path, new XmlReaderSettings { DtdProcessing = DtdProcessing.Ignore }))
             {
@@ -59,7 +59,7 @@ namespace ModificacionExcvel
         static void AddDataExcelCol(List<SAPCOLUMN> lista)
         {
             // Ruta Excel
-            string path = "D:\\Chamba Backend\\AddonPeru\\PlantillasImplementacion\\01 Plantilla de Campos.xlsm";
+            string path = "D:\\SEBAS\\PlantillasAddonPE\\Excels\\01 Plantilla de Campos.xlsm";
 
             Application excelApp = new Application();
 
@@ -75,7 +75,7 @@ namespace ModificacionExcvel
             {
                 // Escribir los datos en las celdas
                 worksheet.Cells[i + 3, 1] = lista[i].TableName;
-                worksheet.Cells[i + 3, 2] = lista[i].TableName;
+                worksheet.Cells[i + 3, 2] = lista[i].FieldID;
                 worksheet.Cells[i + 3, 3] = lista[i].Name;
                 worksheet.Cells[i + 3, 4] = lista[i].Type;
                 worksheet.Cells[i + 3, 5] = lista[i].Size;
@@ -99,7 +99,7 @@ namespace ModificacionExcvel
         {
             XmlDocument xmlDoc = new XmlDocument();
             // C:\Users\Sebastian\source\repos\STR_ADDONPERU_INSTALADOR\STR_ADDONPERU_INSTALADOR\Resources\Localizacion\UT.vte
-            string path = "D:\\Chamba Backend\\AddonPeru\\PlantillasImplementacion\\XML\\Localizacion\\UT.xml";
+            string path = "D:\\SEBAS\\PlantillasAddonPE\\XMLS\\Localizacion\\UT.xml";
             // Cargar el archivo XML con la codificación UTF-16
             using (XmlReader reader = XmlReader.Create(path, new XmlReaderSettings { DtdProcessing = DtdProcessing.Ignore }))
             {
@@ -128,7 +128,7 @@ namespace ModificacionExcvel
         static void AddDataExcelTable(List<SAPTABLE> lista)
         {
             // Ruta Excel
-            string path = "D:\\Chamba Backend\\AddonPeru\\PlantillasImplementacion\\00 Plantilla de Tablas.xlsm";
+            string path = "D:\\SEBAS\\PlantillasAddonPE\\Excels\\00 Plantilla de Tablas.xlsm";
 
             Application excelApp = new Application();
 

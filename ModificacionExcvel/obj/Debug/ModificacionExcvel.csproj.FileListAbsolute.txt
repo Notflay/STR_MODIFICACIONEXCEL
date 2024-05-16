@@ -9,3 +9,15 @@ C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.xml
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.dll.config
 C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.CopyComplete
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\ModificacionExcvel.exe.config
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\ModificacionExcvel.exe
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\ModificacionExcvel.pdb
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.AssemblyReference.cache
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\obj\Debug\Modifica.4C4B70EA.Up2Date
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\obj\Debug\ModificacionExcvel.exe
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\obj\Debug\ModificacionExcvel.pdb
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\sebastian.poma\Source\Repos\STR_MODIFICACIONEXCEL\ModificacionExcvel\bin\Debug\Sap.Data.Hana.v4.5.pdb

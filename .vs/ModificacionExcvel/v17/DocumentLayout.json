@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|c:\\users\\sebastian.poma\\source\\repos\\str_modificacionexcel\\modificacionexcvel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|solutionrelative:modificacionexcvel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\modificacionexcvel\\hanaadohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|solutionrelative:modificacionexcvel\\hanaadohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\modificacionexcvel\\hanaconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|solutionrelative:modificacionexcvel\\hanaconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\modificacionexcvel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7E9EA71-2BF2-4947-947E-7970F5133AA8}|ModificacionExcvel\\ModificacionExcvel.csproj|solutionrelative:modificacionexcvel\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\Program.cs",
+              "RelativeDocumentMoniker": "ModificacionExcvel\\Program.cs",
+              "ToolTip": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\Program.cs",
+              "RelativeToolTip": "ModificacionExcvel\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowE4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\App.config",
+              "RelativeDocumentMoniker": "ModificacionExcvel\\App.config",
+              "ToolTip": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\App.config",
+              "RelativeToolTip": "ModificacionExcvel\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T15:43:46.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HanaConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\HanaConnectionManager.cs",
+              "RelativeDocumentMoniker": "ModificacionExcvel\\HanaConnectionManager.cs",
+              "ToolTip": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\HanaConnectionManager.cs",
+              "RelativeToolTip": "ModificacionExcvel\\HanaConnectionManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:46.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HanaADOHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\HanaADOHelper.cs",
+              "RelativeDocumentMoniker": "ModificacionExcvel\\HanaADOHelper.cs",
+              "ToolTip": "C:\\Users\\sebastian.poma\\Source\\Repos\\STR_MODIFICACIONEXCEL\\ModificacionExcvel\\HanaADOHelper.cs",
+              "RelativeToolTip": "ModificacionExcvel\\HanaADOHelper.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:43:46.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

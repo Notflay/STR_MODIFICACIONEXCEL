@@ -517,7 +517,7 @@
         </member>
         <member name="M:Sap.Data.Hana.HanaCommand.ResetCommandTimeout">
             <summary>
-            <para>Resets the CommandTimeout property to its default value of 30 seconds.</para>
+            <para>Resets the CommandTimeout property to its default value of 0 seconds (no timeout).</para>
         </summary>
         </member>
         <member name="M:Sap.Data.Hana.HanaCommand.CreateDbParameter">
@@ -903,8 +903,8 @@ private void DoStuff() {
         </member>
         <member name="P:Sap.Data.Hana.HanaCommand.CommandTimeout">
             <summary>
-            <para>This feature is not supported by the data provider.</para>
-        </summary>	
+            <para>Gets or sets a timeout (in seconds) for the command.</para>
+        </summary><value>The number of seconds before timing out the query. The default value is 0 (no timeout).</value><seealso cref="M:Sap.Data.Hana.HanaCommand.#ctor"/>	
         </member>
         <member name="P:Sap.Data.Hana.HanaCommand.CommandType">
             <summary>
@@ -1868,7 +1868,7 @@ conn.Open();</code>
   </returns>
         </member>
         <member name="P:Sap.Data.Hana.HanaConnection.DbProviderFactory">
-            <!-- Badly formed XML file "d:\701\w\e183ak0exs\gen\out\happy-make-build\ntintel-msvc2010-release\Interfaces\ADO.NET\Managed\v4.5\tmp\Edm.xml" cannot be included -->
+            <!-- Badly formed XML file "c:\701\w\7hhepnmjzk\gen\out\happy-make-build\ntamd64-msvc2015-release\Interfaces\ADO.NET\Managed\v4.5\tmp\Edm.xml" cannot be included -->
         </member>
         <member name="T:Sap.Data.Hana.HanaCredential">
             <summary>
@@ -2056,6 +2056,11 @@ conn.Open();</code>
         <member name="P:Sap.Data.Hana.HanaConnectionStringBuilder.ConnectionLifetime">
             <summary>
    <para>Gets or sets the ConnectionLifetime connection property.</para>
+  </summary>
+        </member>
+        <member name="P:Sap.Data.Hana.HanaConnectionStringBuilder.Enlist">
+            <summary>
+   <para>Gets or sets the Enlist connection property.</para>
   </summary>
         </member>
         <member name="P:Sap.Data.Hana.HanaConnectionStringBuilder.MinPoolSize">
@@ -3507,7 +3512,7 @@ DbConnection conn = factory.CreateConnection();</code>
         </returns><seealso cref="T:Sap.Data.Hana.HanaConnectionStringBuilder"/>
         </member>
         <member name="M:Sap.Data.Hana.HanaFactory.System#IServiceProvider#GetService(System.Type)">
-            <!-- Badly formed XML file "d:\701\w\e183ak0exs\gen\out\happy-make-build\ntintel-msvc2010-release\Interfaces\ADO.NET\Managed\v4.5\tmp\Edm.xml" cannot be included -->
+            <!-- Badly formed XML file "c:\701\w\7hhepnmjzk\gen\out\happy-make-build\ntamd64-msvc2015-release\Interfaces\ADO.NET\Managed\v4.5\tmp\Edm.xml" cannot be included -->
         </member>
         <member name="P:Sap.Data.Hana.HanaFactory.CanCreateDataSourceEnumerator">
             <summary>
@@ -4046,7 +4051,7 @@ parm.Value = HanaDefault.Value;</code>
             <para>Returns a HanaPermission object that is configured according to the attribute properties.</para>
         </summary>
         </member>
-        <member name="T:Sap.Data.Hana.PInvokeMethods">
+        <member name="T:Sap.Data.Hana.PInvokeMethods64">
             @internal
         </member>
         <member name="T:Sap.Data.Hana.HanaRes">
@@ -4289,6 +4294,9 @@ parm.Value = HanaDefault.Value;</code>
             <para>Parallel transactions are not supported. Therefore, the HanaIsolationLevel applies to the entire transaction.</para>
             <para>If ReadUncommitted is specified, then ReadCommitted is used instead.</para>
         </remarks>
+        </member>
+        <member name="T:Sap.Data.Hana.HanaDurableResourceManager">
+            @internal
         </member>
         <member name="T:Sap.Data.Hana.HanaUnmanagedDll">
             @internal
