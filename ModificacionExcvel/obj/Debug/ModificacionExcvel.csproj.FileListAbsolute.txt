@@ -1,0 +1,6 @@
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\ModificacionExcvel.exe
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\bin\Debug\ModificacionExcvel.pdb
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.exe
+C:\Users\Sebastian\source\repos\ModificacionExcvel\ModificacionExcvel\obj\Debug\ModificacionExcvel.pdb
